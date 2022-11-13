@@ -16,6 +16,6 @@ quiz.start();
 
 
 function draw(){
-  background("pink");
+  background("#fce803")
 
 }
